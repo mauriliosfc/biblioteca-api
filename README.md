@@ -4,7 +4,7 @@
 
 ## Para rodar a api é necessário ter instalado em sua maquina o NODE.JS
 
-## Execute o comando $ npm istall
+## Execute o comando $ npm install
 ## Execute o comando $ npm run start
 ### A API estará disponível na porta 3000
 
